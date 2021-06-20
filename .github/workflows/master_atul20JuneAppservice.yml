@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'atul20JuneAppservice'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d4b15ea3f1304b3fbfe57af20115341c }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6ec9255ea4c24fb38442c367528a0217 }}
         package: .
